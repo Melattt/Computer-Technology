@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Debug\Lab_5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab_5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab_5.map</FILE>
+  <FILE>Lab_5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>51</LINE></reset>
+  <GetChar><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>86</LINE></GetChar>
+  <init_disp><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>159</LINE></init_disp>
+  <nextLine><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>115</LINE></nextLine>
+  <Port_output><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>97</LINE></Port_output>
+  <write_char><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>180</LINE></write_char>
+  <PutChar><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>102</LINE></PutChar>
+  <something><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>155</LINE></something>
+  <code><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>123</LINE></code>
+  <long_wait><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>213</LINE></long_wait>
+  <write_cmd><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>183</LINE></write_cmd>
+  <loop><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>130</LINE></loop>
+  <print><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>137</LINE></print>
+  <stop_print><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>144</LINE></stop_print>
+  <power_up_wait><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>221</LINE></power_up_wait>
+  <write_nibble><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>195</LINE></write_nibble>
+  <short_wait><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>209</LINE></short_wait>
+  <clr_disp><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>170</LINE></clr_disp>
+  <write><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>185</LINE></write>
+  <switch_output><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>234</LINE></switch_output>
+  <wait_loop><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>225</LINE></wait_loop>
+  <dbnc_wait><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>217</LINE></dbnc_wait>
+  <delay><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>253</LINE></delay>
+  <L1><FILE>C:\Users\melat\Documents\Atmel Studio\7.0\Lab_5\Lab_5\Task_4.asm</FILE><LINE>261</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
